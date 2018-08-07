@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PlayerContainer
+comment1.params=
+comment1.target=PlayerContainer()
+comment2.params=limit\ numberOfPlayer\ fileGraph\ input
+comment2.target=PlayerContainer(int,\ int,\ UndirectedGraph,\ InputFile)
+comment3.params=
+comment3.target=java.util.ArrayList\ getAllPlayers()
+comment4.params=
+comment4.target=void\ initilizePlayers()
+comment4.text=\n\ This\ method\ will\ depending\ on\ the\ number\ of\ players\ inputting\ will\ initilize\ \n\ these\ players.\ \ The\ first\ player\ will\ contain\ the\ random\ algorithm,\ the\ second\ \n\ player\ will\ contain\ the\ first\ algorithm\ the\ thrid\ player\ will\ contain\ the\ \n\ last\ algorithm,\ the\ fourth\ player\ will\ contain\ the\ shortest\ algorithm,\ and\ \n\ finally\ the\ fifth\ algorithm\ will\ contain\ the\ farthtest\ algorithm\n
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LinkedListNode
+comment1.params=e
+comment1.target=LinkedListNode(java.lang.Object)
+comment2.params=e
+comment2.target=void\ setNextNode(LinkedListNode)
+comment3.params=
+comment3.target=LinkedListNode\ getNextNode()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

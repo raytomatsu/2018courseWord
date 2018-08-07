@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SearchTest
+comment0.text=\n\ The\ test\ class\ SearchTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ testReadingLines()
+comment2.params=
+comment2.target=void\ testNegationUrl()
+comment3.params=
+comment3.target=void\ testFinalUrl()
+comment4.params=
+comment4.target=void\ testReadingAddLines()
+comment5.params=
+comment5.target=void\ testInToPQ()
+comment6.params=
+comment6.target=void\ testContains()
+comment7.params=
+comment7.target=void\ testIntoArrayList()
+comment8.params=
+comment8.target=void\ testNegationList()
+comment9.params=
+comment9.target=void\ testContainsInDataBase()
+numComments=10

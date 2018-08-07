@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ShapeList
+comment1.params=
+comment1.target=void\ printList()
+comment2.params=s
+comment2.target=void\ addSorted(Shape)
+comment3.params=a
+comment3.target=java.lang.String\ findShape(float)
+numComments=4

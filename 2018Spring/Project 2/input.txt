@@ -1,0 +1,5 @@
+www.animals.com high dog.txt
+www.hamsters.com low hamsters.txt
+www.mouses.com medium mouse.txt
+www.ilovekittens.com low kitten.txt
+www.cooloctopus.com medium octopus.txt

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=InputFile
+comment1.params=file
+comment1.target=InputFile(java.lang.String)
+comment2.params=
+comment2.target=void\ readFile()
+comment2.text=\n\ Thie\ method\ will\ read\ in\ the\ scanner\ input\ and\ will\ find\ the\ starting\ node\ then\n\ add\ as\ many\ of\ the\ end\ nodes\ into\ the\ end\ node\ arraylist.\n
+comment3.params=
+comment3.target=int\ getStart()
+comment4.params=
+comment4.target=java.util.ArrayList\ getEnds()
+numComments=5

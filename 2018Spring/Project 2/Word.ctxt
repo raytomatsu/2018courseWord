@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Word
+comment1.params=theWord
+comment1.target=Word(java.lang.String)
+comment2.params=url
+comment2.target=boolean\ addUrl(Url)
+comment2.text=\n\ this\ method\ checks\ if\ the\ url\ is\ already\ a\ part\ of\ this\ \n\ word\ or\ not.\ \ \n\ \n\ @Param\ the\ new\ Url\ coming\ in\ \n
+numComments=3

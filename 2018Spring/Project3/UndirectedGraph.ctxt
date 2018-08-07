@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=UndirectedGraph
+comment1.params=fileName
+comment1.target=UndirectedGraph(java.lang.String)
+comment2.params=
+comment2.target=void\ addFromFiles()
+comment2.text=\n\ This\ method\ reads\ each\ line\ in\ the\ input\ file\ and\ will\ split\ the\ numbers\ up\ so\ that\ \n\ it\ connects\ the\ nodes\ in\ the\ undirected\ way.\ \ \n
+comment3.params=
+comment3.target=int\ numberOfNodes()
+comment3.text=\n\ This\ goes\ through\ the\ whole\ file\ to\ find\ the\ biggest\ nodes\ so\ that\ I\ can\ initilize\ \n\ the\ size\ of\ the\ graph.\ \ \ \n
+comment4.params=k1\ k2\ w
+comment4.target=boolean\ addEdge(int,\ int,\ int)
+comment4.text=\n\ This\ method\ adds\ the\ edges\ from\ node\ to\ node\ with\ a\ ceratin\ cost.\ \ \n\ Returns\ true\ if\ the\ edge\ is\ successfully\ added.\ \ Edge\ will\ not\ \n\ be\ added\ if\ either\ node\ does\ not\ exist.\ \ If\ the\ edge\ already\ exists\n\ it\ will\ simple\ change\ its\ weight.\ \ \n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=java.util.ArrayList\ getNodeValues()
+comment7.params=
+comment7.target=int\ getAmountNodes()
+numComments=8

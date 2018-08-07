@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=
+comment1.target=Game()
+comment2.params=players\ maxValueForDice
+comment2.target=Game(PlayerContainer,\ int)
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\n\ This\ method\ will\ give\ the\ users\ many\ options\ to\ play\ the\ program.\ \ While\ the\ \n\ program\ is\ playing\ the\ user\ will\ be\ able\ to\ play\ or\ choose\ one\ of\ these\ options.\ \ \n
+comment4.params=user
+comment4.target=void\ Switch(java.lang.String)
+comment4.text=\n\ This\ is\ the\ switch\ statement\ that\ depending\ on\ the\ user's\ input\ will\ run\ the\ program\n\ in\ a\ different\ way.\ \ If\ the\ user\ inputs\ x,\ the\ program\ will\ simply\ exit.\ \ If\ the\ \n\ user\ input\ c\ then\ the\ program\ will\ continue\ until\ there\ is\ a\ winner.\ \ If\ the\ input\n\ is\ p\ then\ it\ will\ printout\ all\ the\ players\ position\ at\ that\ time.\ Finally\ if\ the\ \n\ input\ is\ i\ then\ the\ program\ will\ take\ one\ turn\ for\ all\ of\ my\ players.\ \n\ \n\ @param\ userInput\n
+comment5.params=
+comment5.target=int\ diceRoll()
+comment5.text=\n\ This\ is\ the\ dice\ roll\ that\ will\ have\ a\ range\ depending\ on\ the\ max\ number\ within\ \n\ this\ dice\ that\ the\ user\ will\ input.\ \ \n
+numComments=6

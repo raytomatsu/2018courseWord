@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=UndirectedGraphEdgeTest
+comment0.text=\n\ The\ test\ class\ UndirectedGraphEdgeTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ testDestinationAndCost()
+comment2.params=
+comment2.target=void\ testToString()
+numComments=3

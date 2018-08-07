@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Url
+comment1.params=textFile\ thePriority\ theUrl
+comment1.target=Url(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=incomingPriority
+comment2.target=boolean\ nameThePriority(java.lang.String)
+comment2.text=\n\ This\ method\ assings\ this\ Urls\ variables\ corolating\ to\ the\ \n\ priority\ found\ in\ the\ url\ file.\ \ For\ ex\:\ \ if\ it\ is\ high\ this\ url\ gets\n\ the\ searchPriority\ "high"\ and\ priority\ 1.\ \ \n\ \n\ @Param\ the\ priority\ found\ in\ the\ file\ \n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ addToPrioity()
+comment4.text=\n\ Adds\ 1\ to\ the\ priority\ of\ this\ Url.\ \ \n
+comment5.params=url
+comment5.target=int\ compareTo(Url)
+comment5.text=\n\ Over\ rides\ the\ compare\ to\ method\ so\ that\ it\ would\ be\ based\n\ on\ the\ priority\ when\ inserted\ into\ the\ Priority\ Queue\ \ \n\ \n\ \n
+numComments=6

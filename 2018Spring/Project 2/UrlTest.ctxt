@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=UrlTest
+comment0.text=\n\ The\ test\ class\ UrlTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ testNameThePriority1()
+comment2.params=
+comment2.target=void\ testNameThePriority2()
+comment3.params=
+comment3.target=void\ testNameThePriority3()
+comment4.params=
+comment4.target=void\ addToPriority()
+numComments=5

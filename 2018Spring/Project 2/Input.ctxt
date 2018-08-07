@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Input
+comment1.params=input\ theCommonWords
+comment1.target=Input(java.lang.String,\ java.lang.String)
+comment2.params=input
+comment2.target=void\ readUrls(java.lang.String)
+comment2.text=\n\ This\ method\ read\ all\ the\ Urls\ in\ the\ Url\ file\ and\ creates\n\ a\ new\ Url\ everytime\ it\ finds\ a\ new\ Url.\n\ \n\ @param\ the\ Url.file\ will\ go\ in\ here\ \n
+comment3.params=theCommonWords
+comment3.target=void\ readCommonWords(java.lang.String)
+comment3.text=\n\ this\ method\ reads\ the\ common\ words\ file\ and\ creates\ an\ \n\ ArrayList\ of\ all\ the\ common\ words\ found\ in\ the\ file\n\ \n\ @param\ the\ common\ words\ file\ \n
+comment4.params=
+comment4.target=void\ readWords()
+comment4.text=\n\ This\ method\ reads\ the\ words\ within\ each\ Url\ and\ for\ every\ \n\ new\ Word\ found,\ it\ initilizes\ a\ word\ and\ if\ the\ word\ is\ \n\ already\ there\ it\ adds\ the\ current\ Url\ to\ that\ word\n
+comment5.params=
+comment5.target=void\ addToDataBase()
+comment5.text=\n\ This\ method\ adds\ all\ the\ words\ into\ my\ tree\ map\n
+comment6.params=newWord
+comment6.target=boolean\ searchWord(Word)
+comment6.text=\n\ This\ method\ searches\ for\ the\ word\ with\ in\ my\ arrayList\n\ of\ words\ and\ retruns\ true\ if\ it\ is\ already\ a\ word\ within\n\ my\ array\ list\ of\ words\n
+numComments=7

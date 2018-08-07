@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=UndirectedGraphEdge
+comment0.text=\n\ This\ is\ a\ edge\ class\ in\ which\ will\ store\ the\ destination\ and\ the\ cost\ to\ get\ to\ that\ \n\ destination.\ \ This\ class\ connects\ the\ node's\ together.\ \ \n\n\ @author\ (Ray\ Tomatsu)\n\ @version\ (<ay\ 3,\ 2018)\n
+comment1.params=n\ cost
+comment1.target=UndirectedGraphEdge(int,\ int)
+comment2.params=cost
+comment2.target=void\ setCost(int)
+comment3.params=
+comment3.target=int\ getCost()
+comment4.params=next
+comment4.target=void\ setDestination(int)
+comment5.params=
+comment5.target=int\ getDestination()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

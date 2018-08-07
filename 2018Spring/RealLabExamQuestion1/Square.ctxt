@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\n\ Write\ a\ description\ of\ class\ Square\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=s
+comment1.target=Square(float)
+comment2.params=settingSide
+comment2.target=void\ setSide(float)
+comment3.params=
+comment3.target=float\ getSide()
+comment4.params=
+comment4.target=float\ calcArea()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=randomPlayer
+comment1.params=graph\ limit\ beginning\ end
+comment1.target=randomPlayer(UndirectedGraph,\ int,\ int,\ java.util.ArrayList)
+comment2.params=diceRoll
+comment2.target=void\ algorithm(int)
+comment2.text=\n\ This\ algorithm\ keeps\ track\ of\ the\ place\ each\ player\ is\ and\ the\ place\ they\ are\ \n\ trying\ to\ go\ as\ well\ as\ all\ of\ the\ steps\ it\ takes\ to\ get\ there.\ \ Because\ this\n\ is\ the\ first\ player\ algorithm\ if\ the\ exit\ is\ not\ found\ with\ in\ the\ neighbors\ it\ \n\ will\ choose\ a\ path\ to\ the\ random\ index\ of\ the\ neighbors\ of\ the\ current\ index\n
+numComments=3

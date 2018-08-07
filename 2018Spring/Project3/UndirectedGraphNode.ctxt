@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UndirectedGraphNode
+comment1.params=nodeNumber
+comment1.target=UndirectedGraphNode(int)
+comment2.params=
+comment2.target=int\ getNodeNumber()
+comment3.params=nodeNumber
+comment3.target=void\ setNodeNumber(int)
+comment4.params=
+comment4.target=java.util.ArrayList\ getEdges()
+numComments=5
